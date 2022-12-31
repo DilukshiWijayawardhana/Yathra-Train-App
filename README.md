@@ -1,2 +1,2 @@
 # Yathra-Train-App
-Android application
+Android application.
